@@ -4,7 +4,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @author       JDipi
-// @match        https://soap2day.to/*
+// @match        https://ww25.soap2day.day//*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=soap2day.to
 // @require      https://code.jquery.com/jquery-3.6.1.min.js
 // @grant        GM_xmlhttpRequest
